@@ -746,33 +746,6 @@
     "slug": "cryptsetup"
   },
   {
-    "description": "End-to-end encrypted VoIP calls for Android devices.",
-    "license_url": "https://code.google.com/p/csipsimple/source/browse/trunk/CSipSimple/COPYING_GPL",
-    "logo": "csipsimple.png",
-    "notes": "",
-    "privacy_url": "",
-    "source_url": "https://code.google.com/p/csipsimple/source/checkout",
-    "name": "CSipSimple",
-    "tos_url": "",
-    "url": "https://code.google.com/p/csipsimple/",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/CSipSimple",
-    "protocols": [
-      "SIP",
-      "SSL/TLS",
-      "ZRTP"
-    ],
-    "categories": [
-      {
-        "name": "Android",
-        "subcategories": [
-          "Instant Messaging",
-          "Video & Voice"
-        ]
-      }
-    ],
-    "slug": "csipsimple"
-  },
-  {
     "description": "Aftermarket firmware for Android devices.",
     "license_url": "https://source.android.com/source/licenses.html",
     "logo": "cyanogenmod.png",
